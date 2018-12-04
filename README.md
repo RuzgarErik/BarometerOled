@@ -15,4 +15,8 @@ Oled Barometer With BMP280
          <td>SCL</td>
          <td>Arduino SCL</td>
       </tr>
+   <tr>
+         <td>SDA</td>
+         <td>Arduino SDA</td>
+      </tr>
    </table>
