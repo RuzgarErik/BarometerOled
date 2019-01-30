@@ -1,8 +1,6 @@
 #include <Adafruit_BMP280.h>
 #include <Adafruit_SSD1306.h>
-#include <SD.h>
 #include <SPI.h>
-File myFile;
 #define OLED_Address 0x3C
 Adafruit_BMP280 bmp; // I2C
 Adafruit_SSD1306 oled(1);
